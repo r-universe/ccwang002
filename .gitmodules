@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iGC"]
+	path = iGC
+	url = https://github.com/ccwang002/igc
+	shallow = true
+	registered = true
